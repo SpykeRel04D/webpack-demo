@@ -5,4 +5,8 @@ Webpack tutorial
 
 Then, to add loaders, pex:
 
--> npm install --save-dev style-loader css-loader
+-> npm install --save-dev style-loader css-loader sass sass-loader
+
+Next thing we'll do, is working with Plugins. We can start with HtmlWebpackPlugin:
+
+-> npm install --save-dev html-webpack-plugin
