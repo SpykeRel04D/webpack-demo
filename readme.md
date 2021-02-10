@@ -65,3 +65,7 @@ At this point, basic webpack features are working fine. Now we are gonna install
 
 --------------------------------
 
+Loading all the CSS using JS, can negatively affect on the performance on production. 
+For this reason, we are gonna split our styles in CSS files using (https://webpack.js.org/plugins/mini-css-extract-plugin/):
+
+-> npm install --save-dev mini-css-extract-plugin
