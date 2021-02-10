@@ -62,3 +62,6 @@ For rules, we are gonna add some of the basics image types (in our case, also sv
 At this point, basic webpack features are working fine. Now we are gonna install a plugin to clean build directory (https://www.npmjs.com/package/clean-webpack-plugin):
 
 -> npm install --save-dev clean-webpack-plugin
+
+--------------------------------
+
